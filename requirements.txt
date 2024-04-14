@@ -1,0 +1,5 @@
+python-dotenv
+aiogram==2.5
+google-generativeai
+langchain
+langchain_google_genai
